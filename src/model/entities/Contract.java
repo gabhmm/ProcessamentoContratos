@@ -44,5 +44,6 @@ public class Contract {
 
     public List<Installments> getInstallments() {
         return this.installments;
+
     }
 }
